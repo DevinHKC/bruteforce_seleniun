@@ -14,9 +14,9 @@ from os.path import exists
 browser_select = "chrome"
 
 # Site credentials
-username = "username@domain.com"
+username = "PLKG246519"
 password = "password"
-login_url = "https://www.website.com/login"
+login_url = "https://www.mysmartedu.com/ifec/login.php"
 
 if browser_select == "firefox":
     test_ua = 'Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36'
